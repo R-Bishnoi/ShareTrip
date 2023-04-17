@@ -1,0 +1,14 @@
+.parent-container {
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+  }
+  
+  .component-one {
+    flex: 1;
+  }
+  
+  .component-two {
+    flex: 1;
+  }
+  
